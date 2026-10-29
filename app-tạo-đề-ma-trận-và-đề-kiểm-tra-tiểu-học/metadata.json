@@ -1,0 +1,6 @@
+{
+  "name": "App Tạo Đề Ma Trận Và Đề Kiểm Tra Tiểu Học",
+  "description": "Chuyên gia xây dựng ma trận đề kiểm tra, bản đặc tả chi tiết, đề thi và hướng dẫn chấm chuẩn Chương trình GDPT 2018 và Thông tư 27/2020/TT-BGDĐT cho học sinh Tiểu học.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
